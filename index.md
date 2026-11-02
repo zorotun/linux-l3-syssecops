@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Linux L3 / SysSecOps - Engineering Cheat Sheet
 ---
 # LFM — Carnet de terrain Linux L3 / SysSecOps
